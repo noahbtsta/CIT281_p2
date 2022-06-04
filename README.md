@@ -14,19 +14,8 @@ more practice refactoring javascript code on VS Code.
       - getSortedString(string)
 
 
-
-- Used ping to determine if a specific internet location is available
-![im](images/p1-break.png)
-
-
-- Command line prompt to indicate the quantity of data packets to send 
-![im](images/p1-ping.png)
-
-
-- Created a javascript program on Visual Studio Code
-- Used array in Javascript Program to output the following date
-- Created code that outputed random letters with a length between 5-25
-
+- Creating function expressions/ Anonymous functions
+- Create and use .gitignore to make files no longer appear
 
 
 
